@@ -14,3 +14,20 @@
 ## 🔧 Tech I'm Working With
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,py,c,git,aws,docker,terraform,githubactions,kubernetes,jenkins&perline=4)]()
+
+<table>
+<tr>
+<td width="50%">
+
+**Academic Excellence**
+
+<div align="center">
+
+
+</div>
+
+**Benha University, Faculty of Engineering, Shoubra Branch**  
+*September 2018 – July 2023* | *Cairo, Egypt*
+
+**Capstone Project:** Smart Biomimetics Arm 
+* Depends on the signals collected from the amputee’s muscle - Excellent (A Grade) *
