@@ -30,4 +30,12 @@
 *September 2018 – July 2023* | *Cairo, Egypt*
 
 **Capstone Project:** Smart Biomimetics Arm 
-* Depends on the signals collected from the amputee’s muscle - Excellent (A Grade) *
+* Depends on the signals collected from the amputee’s muscle - Excellent (A Grade)
+
+
+**Professional Training Curriculum:**
+- **AWS Cloud Infrastructure**: EC2, S3, IAM, VPC, CloudWatch, Lambda, and advanced services
+- **Linux System Administration**: Network configuration, security hardening, automation scripting
+- **DevOps Pipeline Engineering**: Complete CI/CD implementation with GitOps methodologies
+- **Cloud Architecture & Design**: Deployment strategies, scalability patterns, cost optimization
+- **Leadership & Collaboration**: Technical team leadership, agile methodologies, problem-solving
