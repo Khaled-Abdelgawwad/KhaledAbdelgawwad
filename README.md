@@ -53,7 +53,7 @@
 ### Technical Skills
 
 ![System Administration](https://img.shields.io/badge/Linux%20System%20Admin-Advanced-FF6B6B?style=flat-square&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/AWS%20Cloud%20Services-Intermediate-4ECDC4?style=flat-square&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/AWS%20Cloud%20Services-Advanced-4ECDC4?style=flat-square&logoColor=white)
 ![Containerization](https://img.shields.io/badge/Docker%20%26%20K8s-Proficient-45B7D1?style=flat-square&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Jenkins%20%26%20ArgoCD-Hands--on-96CEB4?style=flat-square&logoColor=white)
 ![IaC](https://img.shields.io/badge/Terraform%20%26%20Ansible-Learning-FFEAA7?style=flat-square&logoColor=black)
