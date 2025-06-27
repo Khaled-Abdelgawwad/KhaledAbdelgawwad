@@ -32,6 +32,9 @@
 **Capstone Project:** Smart Biomimetics Arm 
 * Depends on the signals collected from the amputee’s muscle - Excellent (A Grade)
 </div>
+</td>
+</tr>
+</table>
 
 **Professional Training Curriculum:**
 - **AWS Cloud Infrastructure**: EC2, S3, IAM, VPC, CloudWatch, Lambda, and advanced services
