@@ -42,3 +42,36 @@
 - **DevOps Pipeline Engineering**: Complete CI/CD implementation with GitOps methodologies
 - **Cloud Architecture & Design**: Deployment strategies, scalability patterns, cost optimization
 - **Leadership & Collaboration**: Technical team leadership, agile methodologies, problem-solving
+
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
+
+### Technical Skills
+
+![System Administration](https://img.shields.io/badge/Linux%20System%20Admin-Advanced-FF6B6B?style=flat-square&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/AWS%20Cloud%20Services-Intermediate-4ECDC4?style=flat-square&logoColor=white)
+![Containerization](https://img.shields.io/badge/Docker%20%26%20K8s-Proficient-45B7D1?style=flat-square&logoColor=white)
+![CI/CD](https://img.shields.io/badge/Jenkins%20%26%20ArgoCD-Hands--on-96CEB4?style=flat-square&logoColor=white)
+![IaC](https://img.shields.io/badge/Terraform%20%26%20Ansible-Learning-FFEAA7?style=flat-square&logoColor=black)
+![Monitoring](https://img.shields.io/badge/Prometheus%20%26%20Grafana-Familiar-DDA0DD?style=flat-square&logoColor=white)
+
+### Soft Skills
+
+![Leadership](https://img.shields.io/badge/Leadership-Strong-FF6B6B?style=flat-square&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-Excellent-4ECDC4?style=flat-square&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical-45B7D1?style=flat-square&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Quick%20Learner-Fast%20Adaptation-96CEB4?style=flat-square&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-Clear%20%26%20Technical-FFEAA7?style=flat-square&logoColor=black)
+
+### Languages
+
+![Arabic](https://img.shields.io/badge/Arabic-Native%20Speaker-28A745?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-Proficient-007BFF?style=flat-square&logoColor=white)
+
+</td>
+<td width="40%">
+
