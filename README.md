@@ -48,7 +48,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="100%">
 
 ### Technical Skills
 
