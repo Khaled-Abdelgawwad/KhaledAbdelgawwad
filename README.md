@@ -73,5 +73,5 @@
 ![English](https://img.shields.io/badge/English-Proficient-007BFF?style=flat-square&logoColor=white)
 
 </td>
-<td width="40%">
+<td width="100%">
 
