@@ -75,10 +75,4 @@
 </td>
 <td width="100%">
 
-
-
-## 📫 Let's Connect
-
-[![mailto:eslK.samir200068@gmail.com](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) [![www.linkedin.com/in/khaled-abdelgawwad-011684344](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-<!-- https://github.com/inttter/md-badges?tab=readme-ov-file#-social-media -->
 ---
