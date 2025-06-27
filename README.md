@@ -9,3 +9,8 @@
 - **CI/CD Excellence**: Jenkins pipelines, ArgoCD GitOps workflows, automated deployments  
 - **Cloud Architecture**: AWS services integration, scalable solutions, cost optimization
 - **Container Orchestration**: Docker containerization, Kubernetes cluster management
+- **CI/CD Excellence**: Jenkins pipelines, ArgoCD GitOps workflows, automated deployments  
+
+## 🔧 Tech I'm Working With
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,py,c,git,aws,docker,terraform,githubactions,kubernetes,jenkins&perline=4)]()
